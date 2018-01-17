@@ -96,21 +96,8 @@ hr {
 	margin: 0 15px 5px 0;
 }
 
-.city .cooking .swimming .subway .baseball {
-	position: relative;
-	margin: 22px;
-}
-
-.city .swimming .baseball{
-	float: left;
-}
-
-.cooking .subway {
-	float: right;
-}
-
 .banner {
-	width: 250px;
+	width: 200px;
 	text-align: center;
 	color: white;
 	background-color: #4aaaa5;
